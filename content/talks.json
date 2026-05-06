@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2026-aiche-keynote",
+    "title": "Digital twins beyond the hype: what actually works in chemical plants",
+    "event": "AIChE Annual Meeting 2026",
+    "location": "San Francisco, USA",
+    "date": "2026-11-10",
+    "type": "Keynote",
+    "url": "https://www.aiche.org/conferences/annual"
+  },
+  {
+    "id": "2026-kiche-spring",
+    "title": "AI 기반 화학공정 운영 — 연구실에서 현장까지",
+    "event": "한국화학공학회 춘계학술대회",
+    "location": "Jeju, Korea",
+    "date": "2026-04-25",
+    "type": "Invited Talk",
+    "url": ""
+  }
+]

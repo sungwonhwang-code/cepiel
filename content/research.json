@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2026-hybrid-twin-distillation",
+    "title": "Hybrid physics–machine learning digital twin for industrial distillation columns",
+    "authors": ["S. Hwang", "J. Kim", "M. Park"],
+    "venue": "Chemical Engineering Science",
+    "year": 2026,
+    "doi": "10.1016/j.ces.2026.xxxxx",
+    "url": "https://doi.org/10.1016/j.ces.2026.xxxxx",
+    "tags": ["digital-twin", "distillation", "hybrid-model"],
+    "summary": "A hybrid first-principles + neural ODE framework that reduces prediction error by 38% on a commercial distillation dataset."
+  },
+  {
+    "id": "2025-mof-discovery-llm",
+    "title": "Language-model-guided exploration of MOF synthesis space",
+    "authors": ["S. Hwang", "H. Lee", "S. Choi"],
+    "venue": "Nature Chemical Engineering",
+    "year": 2025,
+    "doi": "10.1038/s44286-025-xxxxx",
+    "url": "https://www.nature.com/articles/s44286-025-xxxxx",
+    "tags": ["MOF", "LLM", "materials-discovery"],
+    "summary": "Using LLM agents to navigate combinatorial MOF synthesis literature and propose viable candidates for CO₂ capture."
+  },
+  {
+    "id": "2024-process-anomaly-detection",
+    "title": "Self-supervised anomaly detection in continuous chemical processes",
+    "authors": ["S. Hwang", "Y. Jung"],
+    "venue": "Computers & Chemical Engineering",
+    "year": 2024,
+    "doi": "10.1016/j.compchemeng.2024.xxxxx",
+    "url": "https://doi.org/10.1016/j.compchemeng.2024.xxxxx",
+    "tags": ["anomaly-detection", "self-supervised"],
+    "summary": "A contrastive learning approach to anomaly detection that doesn't require labeled fault data."
+  }
+]

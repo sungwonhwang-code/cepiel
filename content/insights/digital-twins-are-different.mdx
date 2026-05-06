@@ -1,0 +1,41 @@
+---
+title: "Why digital twins for chemical processes are different"
+date: 2026-04-22
+summary: "A digital twin of a refinery is not a digital twin of a wind turbine. The differences matter."
+tags: ["digital-twin", "chemical-engineering"]
+---
+
+Most "digital twin" posts you'll read are about mechanical systems — wind turbines,
+jet engines, manufacturing lines. The recipe is well understood: instrument the asset,
+fit a physics-informed model, and use the residual for anomaly detection.
+
+Chemical processes break that recipe in a few specific ways.
+
+## The state space is enormous and partially observable
+
+A distillation column has perhaps a dozen sensors and tens of thousands of internal
+variables you'd actually like to know — concentrations of trace species, local
+temperature gradients, fouling on each tray. You can't just "instrument harder"; many
+of the variables you care about are physically inaccessible at runtime.
+
+This is why first-principles models still matter so much in our field. They aren't
+just regularizers — they're the only way to know things you can't measure.
+
+## Time scales span eight orders of magnitude
+
+Reaction kinetics happen in milliseconds. Heat exchange happens in seconds. Catalyst
+deactivation happens over months. A useful twin has to handle all of these
+simultaneously — and a single ODE solver tuned for one regime is wrong for the others.
+
+## The economic loop is short and brutal
+
+A 1% improvement in yield on a commodity chemical line is real money. A 1% drift in
+your model is also real money — in the wrong direction. The bar for "good enough"
+in chemical twins is higher than in most other domains, because the operator will
+notice almost immediately when your model is wrong.
+
+---
+
+I'll come back to each of these in more detail. For now, the takeaway: when someone
+shows you a digital twin demo, the question to ask isn't "is the model accurate?"
+It's "what's the loss function, and over what time horizon?"
