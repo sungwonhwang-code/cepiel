@@ -1,0 +1,325 @@
+[
+  {
+    "id": "2024-samsung-heavy-lng-digital-twin",
+    "title": "LNG liquefaction process digital twin technology development",
+    "partner": "Samsung Heavy Industries",
+    "type": "Industry-academia",
+    "period": "2024.10 – 2026.09",
+    "status": "ongoing",
+    "role": "Real-time equipment performance & optimal operation system development"
+  },
+  {
+    "id": "2024-gs-atj-saf",
+    "title": "Alcohol-to-Jet SAF process development and optimization",
+    "partner": "GS Engineering & Construction",
+    "type": "Industry-academia",
+    "period": "2024.10 – 2025.06",
+    "status": "ongoing",
+    "role": "Process design, CI index derivation, environmental assessment"
+  },
+  {
+    "id": "2024-gs-co2-electrolysis-ft",
+    "title": "Low-temperature CO₂ electrolysis + Fischer-Tropsch integrated modeling",
+    "partner": "GS Engineering & Construction",
+    "type": "Industry-academia",
+    "period": "2024.10 – 2025.09",
+    "status": "ongoing",
+    "role": "Aspen Plus modeling, FT integration, TEA analysis"
+  },
+  {
+    "id": "2024-nrf-co2-pdh",
+    "title": "CO₂-added propane dehydrogenation catalyst and process development",
+    "partner": "National Research Foundation (NRF)",
+    "type": "Government R&D",
+    "period": "2024.05 – 2027.04",
+    "status": "ongoing",
+    "role": "Catalyst kinetics, PDH reactor modeling, process integration"
+  },
+  {
+    "id": "2025-lg-rpb",
+    "title": "Rotating Packed Bed modeling technology development",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "period": "2025.06 – 2026.06",
+    "status": "ongoing",
+    "role": "ACM-based RPB modeling, optimal operation design"
+  },
+  {
+    "id": "2025-lg-soft-sensor",
+    "title": "Real-time predictive soft-sensing technology for petrochemical processes",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "period": "2025.06 – 2026.06",
+    "status": "ongoing",
+    "role": "Process modeling, soft sensor development, degradation indicators"
+  },
+  {
+    "id": "2025-lg-utility-optimization",
+    "title": "Complex-plant utility system optimization",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "period": "2025.06 – 2026.06",
+    "status": "ongoing",
+    "role": "Data reconciliation, imbalance management system"
+  },
+  {
+    "id": "2023-ketep-energy-grad-school",
+    "title": "Digital-based sustainable energy process innovation graduate program",
+    "partner": "Korea Institute of Energy Technology Evaluation and Planning (KETEP)",
+    "type": "Government R&D",
+    "period": "2023.04 – 2027.12",
+    "status": "ongoing",
+    "role": "Visual design & energy curriculum"
+  },
+  {
+    "id": "2022-ji-union-ccus",
+    "title": "Onboard carbon capture, storage and utilization (CCUS) research",
+    "partner": "J&I SysTech, Union",
+    "type": "Industry-academia",
+    "period": "2022.10 – 2025.09",
+    "status": "ongoing",
+    "role": "Aspen HYSYS DEA solvent CCUS static/dynamic simulation, CO₂ liquefaction"
+  },
+  {
+    "id": "2022-nrf-3d-nano-center",
+    "title": "3D Nano-Convergence Device Research Center",
+    "partner": "National Research Foundation (NRF)",
+    "type": "Government R&D",
+    "period": "2022.06 – 2025.02",
+    "status": "ongoing",
+    "role": "CFD simulation"
+  },
+  {
+    "id": "2020-nrf-smart-energy",
+    "title": "Smart Energy Materials and Process Education Research Group",
+    "partner": "National Research Foundation (NRF)",
+    "type": "Government R&D",
+    "period": "2020.09 – 2027.08",
+    "status": "ongoing",
+    "role": "Energy-sector curriculum, extracurricular programs"
+  },
+  {
+    "id": "past-lg-heat-exchanger-monitoring",
+    "title": "Real-time performance prediction for petrochemical heat exchangers",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-hanwha-h2-liquefaction",
+    "title": "Hydrogen liquefaction process model development and optimization",
+    "partner": "Hanwha Ocean",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-hanwha-ammonia-vent",
+    "title": "Ammonia vent control system",
+    "partner": "Hanwha Ocean",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-samsung-sense-lng",
+    "title": "SENSE LNG Process Twin Study",
+    "partner": "Samsung Heavy Industries",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-samsung-lng-process-twin",
+    "title": "LNG liquefaction Process Twin system development",
+    "partner": "Samsung Heavy Industries",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-gs-ammonia-autothermal",
+    "title": "Ammonia autothermal reformer modeling for large-scale hydrogen production",
+    "partner": "GS Engineering & Construction",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-lg-distillation-monomer",
+    "title": "Distillation column performance prediction for reactive monomer processes",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-lg-hydrogenation",
+    "title": "Hydrogenation reaction model development and quality improvement",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-sk-nexilis-electrolyte",
+    "title": "Acceleration of electrolyte dissolution process for electrolytic copper foil",
+    "partner": "SK Nexilis",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-sk-nexilis-copper-dissolver",
+    "title": "Copper dissolver design optimization",
+    "partner": "SK Nexilis",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-kogas-h2-liquefaction-sim",
+    "title": "Process simulation development for hydrogen liquefaction plant design",
+    "partner": "Korea Gas Corporation (KOGAS)",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-kogas-nox",
+    "title": "Technology development for NOx reduction from flue gas",
+    "partner": "Korea Gas Corporation (KOGAS)",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-kogas-pm",
+    "title": "Study for removal of particulate matter (FPM + CPM)",
+    "partner": "Korea Gas Corporation (KOGAS)",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-dsme-lng-tank-matlab",
+    "title": "MATLAB-based thermodynamic model of LNG tanks",
+    "partner": "Daewoo Shipbuilding & Marine Engineering",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-dsme-bor-model",
+    "title": "Development of BOR measurement model",
+    "partner": "Daewoo Shipbuilding & Marine Engineering",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-dsme-equipment-monitoring",
+    "title": "Real-time operating performance monitoring and predictive models for process equipment",
+    "partner": "Daewoo Shipbuilding & Marine Engineering",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-plasmatech-wet-esp",
+    "title": "CFD flow analysis of wet electrostatic precipitators",
+    "partner": "Plasmatech",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-tamu-lng-mpc",
+    "title": "LNG tank dynamic model development and offset-free MPC",
+    "partner": "Texas A&M University",
+    "type": "International collaboration",
+    "status": "completed"
+  },
+  {
+    "id": "past-tamu-libattery-dendrite",
+    "title": "Multiscale model for suppressing dendrite formation in lithium-ion batteries",
+    "partner": "Texas A&M University",
+    "type": "International collaboration",
+    "status": "completed"
+  },
+  {
+    "id": "past-kiat-smart-digital-eng",
+    "title": "Smart Digital Engineering specialist talent development program",
+    "partner": "Korea Institute for Advancement of Technology (KIAT)",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-kiat-smart-manufacturing",
+    "title": "Smart Manufacturing global talent development program",
+    "partner": "Korea Institute for Advancement of Technology (KIAT)",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-keit-fluorosilicone",
+    "title": "Fluoro-modified silicone-based liquid and solid elastomers",
+    "partner": "Korea Evaluation Institute of Industrial Technology (KEIT)",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-keit-silicone-foam",
+    "title": "250 °C high-heat-resistant flame-retardant eco-friendly silicone-based foam elastomer material",
+    "partner": "Korea Evaluation Institute of Industrial Technology (KEIT)",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-nrf-ar-3d-printing-reactor",
+    "title": "Reactor design applying AI, augmented reality and 3D printing",
+    "partner": "National Research Foundation (NRF)",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-gov-gtl-fpso",
+    "title": "Development of GTL-FPSO topside process conceptual design",
+    "partner": "Government R&D programs",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-gov-subsea-topside",
+    "title": "Integration of sub-sea and topside process for offshore platform",
+    "partner": "Government R&D programs",
+    "type": "Government R&D",
+    "status": "completed"
+  },
+  {
+    "id": "past-biogen-silicone-foam",
+    "title": "ANN-based prediction and optimization of silicone foam polymer properties",
+    "partner": "Korea Biogen",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-hrs-fluoro-polymer",
+    "title": "Fluorosilicone polymer reactor modeling and optimization",
+    "partner": "HRS",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-atri-syngas-steel",
+    "title": "Synthetic fuel production process from steelmill waste heat and byproduct gas",
+    "partner": "Advanced Technology Research Institute",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-atri-pemfc",
+    "title": "PEMFC control system and dynamic model development",
+    "partner": "Advanced Technology Research Institute",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-atri-cargo-handling",
+    "title": "Cargo Handling System control system",
+    "partner": "Advanced Technology Research Institute",
+    "type": "Industry-academia",
+    "status": "completed"
+  },
+  {
+    "id": "past-ktec-pusher-furnace",
+    "title": "Flow analysis of pusher-type electric furnaces",
+    "partner": "K-TEC",
+    "type": "Industry-academia",
+    "status": "completed"
+  }
+]

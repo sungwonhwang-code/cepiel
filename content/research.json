@@ -1,35 +1,547 @@
 [
   {
-    "id": "2026-hybrid-twin-distillation",
-    "title": "Hybrid physics–machine learning digital twin for industrial distillation columns",
-    "authors": ["S. Hwang", "J. Kim", "M. Park"],
-    "venue": "Chemical Engineering Science",
+    "id": "2026-hybrid-mechanism-hydrogenation",
+    "title": "Data-driven mechanism derivation in hydrogenation reaction systems: A hybrid approach integrating machine learning and mathematical models",
+    "authors": ["Juhyun Park", "Sunghun Song", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Chemical Engineering Journal",
     "year": 2026,
-    "doi": "10.1016/j.ces.2026.xxxxx",
-    "url": "https://doi.org/10.1016/j.ces.2026.xxxxx",
-    "tags": ["digital-twin", "distillation", "hybrid-model"],
-    "summary": "A hybrid first-principles + neural ODE framework that reduces prediction error by 38% on a commercial distillation dataset."
+    "url": "https://www.sciencedirect.com/science/article/pii/S1385894726038453",
+    "tags": ["hybrid-model", "hydrogenation", "ML", "kinetics"]
   },
   {
-    "id": "2025-mof-discovery-llm",
-    "title": "Language-model-guided exploration of MOF synthesis space",
-    "authors": ["S. Hwang", "H. Lee", "S. Choi"],
-    "venue": "Nature Chemical Engineering",
+    "id": "2026-ammonia-autothermal-reforming",
+    "title": "Comprehensive study on ammonia autothermal reforming: From mathematical modeling and reactor design to optimization and process simulation",
+    "authors": ["Kihwan Lee", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Journal of Industrial and Engineering Chemistry",
+    "year": 2026,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1226086X26001115",
+    "tags": ["ammonia", "hydrogen", "reactor-design", "process-simulation"]
+  },
+  {
+    "id": "2025-onboard-co2-capture-amine",
+    "title": "Integrated process simulation and economic evaluation of onboard CO₂ capture using optimized amine blends",
+    "authors": ["Kyeongho Jeong", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "ACS Omega",
     "year": 2025,
-    "doi": "10.1038/s44286-025-xxxxx",
-    "url": "https://www.nature.com/articles/s44286-025-xxxxx",
-    "tags": ["MOF", "LLM", "materials-discovery"],
-    "summary": "Using LLM agents to navigate combinatorial MOF synthesis literature and propose viable candidates for CO₂ capture."
+    "doi": "10.1021/acsomega.5c06457",
+    "url": "https://doi.org/10.1021/acsomega.5c06457",
+    "tags": ["CCU", "carbon-capture", "amine", "onboard", "techno-economic"]
   },
   {
-    "id": "2024-process-anomaly-detection",
-    "title": "Self-supervised anomaly detection in continuous chemical processes",
-    "authors": ["S. Hwang", "Y. Jung"],
-    "venue": "Computers & Chemical Engineering",
+    "id": "2025-pt3m-alloy-catalyst-h2",
+    "title": "Rational design of Pt₃M (M = transition metals) alloy catalyst for hydrogen production via ethylene glycol decomposition: combined machine learning, density functional theory, and experimental approach",
+    "authors": ["Shedrack G. Akpe", "Jung Hyeon Han", "Elim Kim", "Yoondo Kim", "Hyun Ju Lee", "Seok Jun Yoon", "Jinseok Kang", "Eun Seong Yoo", "Sungwon Hwang", "Hyuntae Sohn", "Sun Hee Choi", "Hyung Chul Ham"],
+    "venue": "ACS Catalysis",
+    "year": 2025,
+    "url": "https://pubs.acs.org/doi/full/10.1021/acscatal.5c03461",
+    "tags": ["hydrogen", "catalysis", "DFT", "ML", "alloy"]
+  },
+  {
+    "id": "2025-co2-liquefaction-lng-cold",
+    "title": "Optimization and comparison of working fluids for an onboard CO₂ liquefaction process utilizing LNG cold energy",
+    "authors": ["Minkyung Jung", "Sungwon Hwang"],
+    "venue": "Korean Chemical Engineering Research",
+    "year": 2025,
+    "url": "https://www.kiche.or.kr/journal/kcer/view/latest/63/4/105133",
+    "tags": ["CO2-liquefaction", "LNG", "ORC", "working-fluid"]
+  },
+  {
+    "id": "2025-sustainable-ammonia-maritime",
+    "title": "Techno-economic and environmental analysis of sustainable ammonia process developed through integrated low-carbon technologies for maritime sector",
+    "authors": ["Sungjun Ahn", "Jaemin Jung", "Sungwon Hwang"],
+    "venue": "Fuel",
+    "year": 2025,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0016236125022434",
+    "tags": ["ammonia", "maritime", "techno-economic", "low-carbon"]
+  },
+  {
+    "id": "2025-lithium-electrodeposition-fem",
+    "title": "Finite-element modeling of lithium electrodeposition on non-flat anode surfaces",
+    "authors": ["Sujin Lee", "Dela Quarme Gbadago", "Yazhou Zhou", "Danna Yan", "Jae Chul Kim", "Sungwon Hwang"],
+    "venue": "Journal of The Electrochemical Society",
+    "year": 2025,
+    "url": "https://iopscience.iop.org/article/10.1149/1945-7111/adf9d3",
+    "tags": ["battery", "lithium", "FEM", "electrodeposition"]
+  },
+  {
+    "id": "2025-data-driven-predictive-maintenance-hx",
+    "title": "Data-driven predictive maintenance for heat exchangers: real-time monitoring and long-term performance prediction using integrated ML models",
+    "authors": ["Heejin Kim", "Eunseok Sim", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2025,
+    "url": "https://link.springer.com/article/10.1007/s11814-025-00493-2",
+    "tags": ["predictive-maintenance", "heat-exchanger", "ML", "RUL", "digital-twin"]
+  },
+  {
+    "id": "2025-h2-refrigeration-exergy",
+    "title": "Achieving optimal energy efficiency, enhanced exergy performance, and comprehensive economic analysis in hydrogen refrigeration systems",
+    "authors": ["Minji Park", "Dela Quarme Gbadago", "Hyungjun Jung", "Sungwon Hwang"],
+    "venue": "Energy",
+    "year": 2025,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0360544225001835",
+    "tags": ["hydrogen", "liquefaction", "exergy", "refrigeration", "energy-efficiency"]
+  },
+  {
+    "id": "2025-renewable-ammonia-periodic-ml",
+    "title": "Renewable ammonia synthesis via experiments and optimization using periodic operation and machine learning integrated approaches",
+    "authors": ["Jingyu Park", "Dela Quarme Gbadago", "Shinsuke Mori", "Sungwon Hwang"],
+    "venue": "Energy Conversion and Management",
+    "year": 2025,
+    "doi": "10.1016/j.enconman.2024.119286",
+    "url": "https://doi.org/10.1016/j.enconman.2024.119286",
+    "tags": ["ammonia", "ML", "periodic-operation", "renewable"]
+  },
+  {
+    "id": "2025-cfd-ai-integrated-framework",
+    "title": "A leap forward in chemical process design: introducing an automated framework for integrated AI and CFD simulations",
+    "authors": ["Dela Quarme Gbadago", "Sejin Go", "Sungwon Hwang"],
+    "venue": "Computers and Chemical Engineering",
+    "year": 2025,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950953",
+    "tags": ["CFD", "AI", "automation", "process-design"]
+  },
+  {
+    "id": "2024-twin-fluid-atomizer-cfd",
+    "title": "Computationally cost-efficient analysis of the flow behavior of twin-fluid atomizers using computational fluid dynamics",
+    "authors": ["Girim Shin", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Chemical Engineering Research and Design",
     "year": 2024,
-    "doi": "10.1016/j.compchemeng.2024.xxxxx",
-    "url": "https://doi.org/10.1016/j.compchemeng.2024.xxxxx",
-    "tags": ["anomaly-detection", "self-supervised"],
-    "summary": "A contrastive learning approach to anomaly detection that doesn't require labeled fault data."
+    "url": "https://www.sciencedirect.com/science/article/pii/S0263876224006026",
+    "tags": ["CFD", "atomizer", "flow-modeling"]
+  },
+  {
+    "id": "2024-deep-learning-biodegradability",
+    "title": "Deep learning for green chemistry: an AI-enabled pathway for biodegradability prediction and organic material discovery",
+    "authors": ["Dela Quarme Gbadago", "Gyuyeong Hwang", "Kihwan Lee", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2024,
+    "url": "https://link.springer.com/article/10.1007/s11814-024-00202-5",
+    "tags": ["deep-learning", "green-chemistry", "biodegradability"]
+  },
+  {
+    "id": "2024-offshore-wind-hydrogen-korea",
+    "title": "Techno-economic analysis and comparison of supplying hydrogen using offshore wind power sources on the coast of the Korean Peninsula",
+    "authors": ["Taehyung Kang", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "International Journal of Hydrogen Energy",
+    "year": 2024,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0360319924018755",
+    "tags": ["hydrogen", "offshore-wind", "techno-economic", "renewable"]
+  },
+  {
+    "id": "2024-sofc-cogeneration-agricultural",
+    "title": "Optimization of heat exchange network of SOFC cogeneration system based on agricultural by-product",
+    "authors": ["Gihoon Hong", "Sunghyun Uhm", "Hyungjune Jung", "Sungwon Hwang"],
+    "venue": "Journal of the Korean Institute of Gas",
+    "year": 2024,
+    "tags": ["SOFC", "cogeneration", "heat-exchange-network"]
+  },
+  {
+    "id": "2024-biogas-hydrogen-production",
+    "title": "Optimization of hydrogen production process using 50 Nm³/h biogas",
+    "authors": ["Gihoon Hong", "Dongkyu Lee", "Hyeongrae Kim", "Sangyeon Hwang", "Hyoungwoon Song", "Sungjun Ahn", "Sungwon Hwang"],
+    "venue": "Journal of the Korean Institute of Gas",
+    "year": 2024,
+    "tags": ["hydrogen", "biogas", "process-optimization"]
+  },
+  {
+    "id": "2023-methanol-sulfuric-acid-methane",
+    "title": "Economically viable co-production of methanol and sulfuric acid via direct methane oxidation",
+    "authors": ["Jaehyung Im", "Seokhyeon Cheong", "Huyentran Dang", "Nakkyoon Kim", "Sungwon Hwang", "Kibong Lee", "Kyeongsu Kim", "Hyunjoo Lee", "Ung Lee"],
+    "venue": "Communications Chemistry (Nature Portfolio)",
+    "year": 2023,
+    "url": "https://www.nature.com/articles/s42004-023-01080-4",
+    "tags": ["methane", "methanol", "co-production", "techno-economic"]
+  },
+  {
+    "id": "2023-no-reduction-niox-ceo2",
+    "title": "NO reduction by CO over NiOx/CeO₂ catalyst with fixed Ni surface density: pretreatment effect on catalyst structure and catalytic activity",
+    "authors": ["Kyungmin Lee", "Byeongseok Kim", "Juwon Lee", "Gihan Kwon", "Kwangsuk Yoon", "Hocheol Song", "Kyunghoon Min", "Sangeun Shim", "Sungwon Hwang", "Taejin Kim"],
+    "venue": "Catalysis Science & Technology",
+    "year": 2023,
+    "doi": "10.1039/D3CY01103H",
+    "url": "https://doi.org/10.1039/D3CY01103H",
+    "tags": ["NOx", "catalysis", "CO-reduction"]
+  },
+  {
+    "id": "2023-lohc-techno-economic",
+    "title": "Exploring the potential of liquid organic hydrogen carrier (LOHC) system for efficient hydrogen storage and transport: a techno-economic and energy analysis perspective",
+    "authors": ["Nomuunaa Tsogt", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Energy Conversion and Management",
+    "year": 2023,
+    "doi": "10.1016/j.enconman.2023.117856",
+    "url": "https://doi.org/10.1016/j.enconman.2023.117856",
+    "tags": ["hydrogen", "LOHC", "techno-economic", "transport"]
+  },
+  {
+    "id": "2023-perovskite-substrate-orientations",
+    "title": "Optimized substrate orientations for highly uniform metal halide perovskite film deposition",
+    "authors": ["Chaeeun Yu", "Dela Quarme Gbadago", "Seokki Hyeong", "Seoungki Lee", "Sungwon Hwang", "Naechul Shin"],
+    "venue": "ACS Applied Materials & Interfaces",
+    "year": 2023,
+    "doi": "10.1021/acsami.3c09109",
+    "url": "https://doi.org/10.1021/acsami.3c09109",
+    "tags": ["perovskite", "thin-film", "deposition"]
+  },
+  {
+    "id": "2022-co2-steam-co-electrolysis",
+    "title": "Techno-economic analysis of CO₂/steam co-electrolysis process and synfuel production process coupled with steel manufacturing process",
+    "authors": ["Juwon Lee", "Youngtak Jo", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2022,
+    "doi": "10.1007/s11814-022-1331-9",
+    "url": "https://doi.org/10.1007/s11814-022-1331-9",
+    "tags": ["CO2", "co-electrolysis", "synfuel", "steel", "techno-economic"]
+  },
+  {
+    "id": "2022-pemfc-ann-mpc",
+    "title": "Artificial neural network-based model predictive control for optimal operating conditions in proton exchange membrane fuel cells",
+    "authors": ["Youngtak Jo", "Gyuyeong Hwang", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Journal of Cleaner Production",
+    "year": 2022,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0959652622046224",
+    "tags": ["PEMFC", "ANN", "MPC", "fuel-cell"]
+  },
+  {
+    "id": "2022-cfd-dnn-equipment-visualization",
+    "title": "Exploring advanced process equipment visualization as a step toward the realization of digital twins: a CFD-DNN approach",
+    "authors": ["Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2022,
+    "url": "https://link.springer.com/article/10.1007/s11814-022-1273-2",
+    "tags": ["digital-twin", "CFD", "DNN", "visualization"]
+  },
+  {
+    "id": "2022-lng-loading-bog-mpc",
+    "title": "Dynamic modeling and predictive control of boil-off gas generation during LNG loading",
+    "authors": ["Kyeongseok Shin", "Sanghwan Son", "Jiyoung Moon", "Yeonpyeong Jo", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "Computers & Chemical Engineering",
+    "year": 2022,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0098135422000424",
+    "tags": ["LNG", "boil-off-gas", "MPC", "dynamic-modeling"]
+  },
+  {
+    "id": "2021-wlm-msmr-bayesian-opt",
+    "title": "Parameterization of microstructural properties of wormlike micelles (WLMs) via a multi-scale multi-recommendation (MSMR) batch Bayesian optimization",
+    "authors": ["Silabrata Pahari", "Jiyoung Moon", "Mustafa Akbulut", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "Industrial & Engineering Chemistry Research",
+    "year": 2021,
+    "doi": "10.1021/acs.iecr.1c03045",
+    "url": "https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c03045",
+    "tags": ["Bayesian-optimization", "wormlike-micelles", "multi-scale"]
+  },
+  {
+    "id": "2021-libattery-mpc-spm",
+    "title": "Model predictive control of lithium-ion batteries: development of optimal charging profile for reduced intracycle capacity fade using an enhanced single particle model (SPM) with first-principled chemical/mechanical degradation mechanisms",
+    "authors": ["Gyuyeong Hwang", "Niranjan Sitapure", "Jiyoung Moon", "Hyeonggeon Lee", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "Chemical Engineering Journal",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894722002753",
+    "tags": ["battery", "MPC", "single-particle-model", "degradation"]
+  },
+  {
+    "id": "2021-ann-software-platform",
+    "title": "Software platform for high-fidelity-data-based artificial neural network modeling and process optimization in chemical engineering",
+    "authors": ["Jiyoung Moon", "Dela Quarme Gbadago", "Gyuyeong Hwang", "Dongjun Lee", "Sungwon Hwang"],
+    "venue": "Computers & Chemical Engineering",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0098135421004142",
+    "tags": ["ANN", "software-platform", "process-optimization", "CEPiML"]
+  },
+  {
+    "id": "2021-flare-network-dynamic-analysis",
+    "title": "Dynamic analysis of a flare network: gas blow-by and depressuring system",
+    "authors": ["Yeonpyeong Jo", "Dongjun Lee", "Baasanjargal Sukhbold", "Youngtak Jo", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2021,
+    "url": "https://link.springer.com/article/10.1007/s11814-021-1002-2",
+    "tags": ["flare-network", "dynamic-analysis", "depressuring", "offshore"]
+  },
+  {
+    "id": "2021-h2-liquefaction-smr-co2",
+    "title": "Integrating hydrogen liquefaction with steam methane reforming and CO₂ liquefaction processes using techno-economic perspectives",
+    "authors": ["Dongjun Lee", "Dela Quarme Gbadago", "Youngtak Jo", "Gyuyoung Hwang", "Yeonpyeong Jo", "Sungwon Hwang"],
+    "venue": "Energy Conversion and Management",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0196890421007962",
+    "tags": ["hydrogen", "liquefaction", "SMR", "CO2", "techno-economic"]
+  },
+  {
+    "id": "2021-wlm-mpc-ctab-nacl",
+    "title": "Model predictive control for wormlike micelles (WLMs): application to a system of CTAB and NaCl",
+    "authors": ["Silabrata Pahari", "Jiyoung Moon", "Mustafa Akbulut", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "Chemical Engineering Research and Design",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0263876221003014",
+    "tags": ["MPC", "wormlike-micelles", "CTAB"]
+  },
+  {
+    "id": "2021-libattery-dendrite-multiscale",
+    "title": "Multiscale modeling of dendrite formation in lithium-ion batteries",
+    "authors": ["Hyeonggeon Lee", "Niranjan Sitapure", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "Computers & Chemical Engineering",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0098135421001939",
+    "tags": ["battery", "dendrite", "multiscale-modeling"]
+  },
+  {
+    "id": "2021-cvd-graphene-ml",
+    "title": "Machine learning for CVD graphene analysis: from measurement to simulation of SEM images",
+    "authors": ["Gyuyeong Hwang", "Taehun Kim", "Juyong Shin", "Naechul Shin", "Sungwon Hwang"],
+    "venue": "Journal of Industrial and Engineering Chemistry",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1226086X21003051",
+    "tags": ["ML", "graphene", "CVD", "SEM"]
+  },
+  {
+    "id": "2021-lng-tank-dynamic-simulation",
+    "title": "Development of dynamic simulation model of LNG tank and its operational strategy",
+    "authors": ["Yeonpyeong Jo", "Kyeongseok Shin", "Sungwon Hwang"],
+    "venue": "Energy",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360544221003091",
+    "tags": ["LNG", "dynamic-simulation", "operational-strategy"]
+  },
+  {
+    "id": "2021-offshore-utility-lifecycle",
+    "title": "Life cycle based optimal design of utility system in offshore plants",
+    "authors": ["Hyeonggeon Lee", "Youngtak Jo", "Juyong Shin", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2021,
+    "url": "https://link.springer.com/content/pdf/10.1007/s11814-021-0746-z.pdf",
+    "tags": ["offshore", "utility-system", "life-cycle", "optimization"]
+  },
+  {
+    "id": "2021-molten-salt-reactor-butadiene",
+    "title": "Cooling effects of different molten salts and tube diameters on the performance of chemical reactors: a case study with butadiene synthesis",
+    "authors": ["Jiyoung Moon", "Dela Quarme Gbadago", "Minjeong Kim", "Sungwon Hwang"],
+    "venue": "Applied Thermal Engineering",
+    "year": 2021,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1359431121000405",
+    "tags": ["reactor", "molten-salt", "butadiene", "thermal"]
+  },
+  {
+    "id": "2020-unified-cfd-dnn-ga-butadiene",
+    "title": "A unified framework for the mathematical modelling, predictive analysis, and optimization of reaction systems using computational fluid dynamics, deep neural network and genetic algorithm: a case of butadiene synthesis",
+    "authors": ["Dela Quarme Gbadago", "Jiyoung Moon", "Minjeong Kim", "Sungwon Hwang"],
+    "venue": "Chemical Engineering Journal",
+    "year": 2020,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894720342790",
+    "tags": ["CFD", "DNN", "GA", "framework", "butadiene"]
+  },
+  {
+    "id": "2020-libattery-passivation-layer",
+    "title": "A computational approach to characterize formation of a passivation layer in lithium metal anodes",
+    "authors": ["Niranjan Sitapure", "Hyeonggeon Lee", "Francisco Ospina Acevedo", "Perla Balbuena", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "AIChE Journal",
+    "year": 2020,
+    "url": "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17073",
+    "tags": ["battery", "passivation", "lithium", "computational"]
+  },
+  {
+    "id": "2020-lng-tank-offset-free-mpc",
+    "title": "Dynamic modeling and offset-free predictive control of LNG tank",
+    "authors": ["Yeonpyeong Jo", "Mohammed Saad Faizan Bangi", "Sanghwan Son", "Sungwon Hwang", "Joseph Sang-Il Kwon"],
+    "venue": "Fuel",
+    "year": 2020,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0016236120320706",
+    "tags": ["LNG", "MPC", "dynamic-modeling"]
+  },
+  {
+    "id": "2020-distillation-ann-mpc",
+    "title": "Development of model predictive control system using an artificial neural network: a case study with a distillation column",
+    "authors": ["Yeonju Shin", "Robin Smith", "Sungwon Hwang"],
+    "venue": "Journal of Cleaner Production",
+    "year": 2020,
+    "url": "https://www.sciencedirect.com/science/article/pii/S095965262034169X",
+    "tags": ["distillation", "ANN", "MPC"]
+  },
+  {
+    "id": "2020-3d-multitubular-butadiene",
+    "title": "3-D multi-tubular reactor model development for the oxidative dehydrogenation of butene to 1,3-butadiene",
+    "authors": ["Jiyoung Moon", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "ChemEngineering",
+    "year": 2020,
+    "url": "https://www.mdpi.com/2305-7084/4/3/46",
+    "tags": ["reactor", "ODH", "butadiene", "3D-modeling"]
+  },
+  {
+    "id": "2019-flare-network-dynamic-optimization",
+    "title": "Dynamic analysis and optimization of flare network system for topside process of offshore plant",
+    "authors": ["Yeonpyeong Jo", "Yongheon Cho", "Sungwon Hwang"],
+    "venue": "Process Safety and Environmental Protection",
+    "year": 2019,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0957582019317811",
+    "tags": ["flare-network", "offshore", "topside", "optimization"]
+  },
+  {
+    "id": "2019-nox-ann-ga",
+    "title": "Development of NOx reduction system utilizing artificial neural network (ANN) and genetic algorithm (GA)",
+    "authors": ["Yeonju Shin", "Ziehyun Kim", "Jihye Yu", "Geonjung Kim", "Sungwon Hwang"],
+    "venue": "Journal of Cleaner Production",
+    "year": 2019,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0959652619318128",
+    "tags": ["NOx", "ANN", "GA"]
+  },
+  {
+    "id": "2019-nox-rsm-ann-lng",
+    "title": "Development of NOx removal process for LNG evaporation system: comparative assessment between response surface methodology (RSM) and artificial neural network (ANN)",
+    "authors": ["Ziehyun Kim", "Yeonju Shin", "Jihye Yu", "Geonjoong Kim", "Sungwon Hwang"],
+    "venue": "Journal of Industrial and Engineering Chemistry",
+    "year": 2019,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1226086X19300693",
+    "tags": ["NOx", "LNG", "RSM", "ANN"]
+  },
+  {
+    "id": "2018-ti-sno2-sb-electrocatalytic",
+    "title": "Influence of the Sb content in Ti/SnO₂-Sb electrodes on the electrocatalytic behaviour for the degradation of organic matter",
+    "authors": ["D. Lim", "Y. Kim", "D. Nam", "S. Hwang", "S. E. Shim", "S. Baeck"],
+    "venue": "Journal of Cleaner Production",
+    "year": 2018,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0959652618319607",
+    "tags": ["electrocatalysis", "wastewater", "Ti-SnO2"]
+  },
+  {
+    "id": "2018-tubular-reactor-butene-cfd",
+    "title": "Tubular reactor design for the oxidative dehydrogenation of butene using computational fluid dynamics (CFD) modeling",
+    "authors": ["Joseph Albert Mendoza", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2018,
+    "url": "https://link.springer.com/article/10.1007/s11814-018-0143-4",
+    "tags": ["CFD", "reactor", "ODH", "butene"]
+  },
+  {
+    "id": "2017-topside-conceptual-design",
+    "title": "A new approach to developing a conceptual topside process design for an offshore platform",
+    "authors": ["Yongheon Cho", "Soojin Kwon", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2017,
+    "url": "https://link.springer.com/article/10.1007/s11814-017-0258-z",
+    "tags": ["offshore", "topside", "process-design"]
+  },
+  {
+    "id": "2017-membrane-economic-response",
+    "title": "Economic response models for membrane design",
+    "authors": ["Soojin Kwon", "Michael Binns", "Sungwon Hwang"],
+    "venue": "Journal of Membrane Science",
+    "year": 2017,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0376738817316605",
+    "tags": ["membrane", "economic-modeling", "design"]
+  },
+  {
+    "id": "2017-burner-vaporizer-nox",
+    "title": "Technology development for the reduction of NOx in flue gas from a burner-type vaporizer and its application",
+    "authors": ["Jeongeun Son", "Huicheon Yang", "Geonjoong Kim", "Sungwon Hwang", "Hyunseok You"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2017,
+    "url": "https://link.springer.com/article/10.1007/s11814-017-0029-x",
+    "tags": ["NOx", "vaporizer", "flue-gas"]
+  },
+  {
+    "id": "2016-butane-butadiene-carbon-nano",
+    "title": "Production of butene and butadiene by oxidative dehydrogenation of butane over carbon nanomaterial catalysts",
+    "authors": ["Sungwon Park", "Yehwon Lee", "Geonjoong Kim", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2016,
+    "url": "https://link.springer.com/article/10.1007/s11814-016-0206-3",
+    "tags": ["ODH", "butane", "butadiene", "carbon-catalyst"]
+  },
+  {
+    "id": "2016-blowdown-vapor-phase",
+    "title": "Dynamic modeling & analysis of vapor phase blowdown of depressurized vessel",
+    "authors": ["Kyungwoon Kim", "Ji Won Seo", "Sungwon Hwang", "Yun Ju Lee", "Young Sik Moon"],
+    "venue": "Korean Chemical Engineering Research",
+    "year": 2016,
+    "url": "http://koreascience.or.kr/article/JAKO201616853627693.page",
+    "tags": ["blowdown", "depressuring", "dynamic-modeling"]
+  },
+  {
+    "id": "2016-electro-oxidation-wastewater",
+    "title": "Modeling and optimization of high strength wastewater treatment using the electro oxidation process",
+    "authors": ["Hongmin Lee", "Sangsun Lee", "Sungwon Hwang", "Dongbok Jin"],
+    "venue": "Korean Chemical Engineering Research",
+    "year": 2016,
+    "url": "http://koreascience.or.kr/article/JAKO201616853627689.page",
+    "tags": ["wastewater", "electro-oxidation", "optimization"]
+  },
+  {
+    "id": "2015-fischer-tropsch-gtl",
+    "title": "Conceptual design of a Fischer–Tropsch reactor in a gas-to-liquid process",
+    "authors": ["Hyun-Jung Lee", "Ju-Hwan Choi", "Arthur Garforth", "Sungwon Hwang"],
+    "venue": "Industrial & Engineering Chemistry Research",
+    "year": 2015,
+    "url": "https://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b00556",
+    "tags": ["Fischer-Tropsch", "GTL", "reactor-design"]
+  },
+  {
+    "id": "2015-propane-dehydrogenation-moving-bed",
+    "title": "Catalytic propane dehydrogenation: advanced strategies for the analysis and design of moving bed reactors",
+    "authors": ["Kamlesh Ghodasara", "Sungwon Hwang", "Robin Smith"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2015,
+    "url": "https://link.springer.com/article/10.1007/s11814-015-0050-x",
+    "tags": ["propane", "dehydrogenation", "moving-bed-reactor"]
+  },
+  {
+    "id": "2014-heterogeneous-catalytic-reactor-design",
+    "title": "A novel approach to the design and operation scheduling of heterogeneous catalytic reactors",
+    "authors": ["Kamlesh Ghodasara", "Robin Smith", "Sungwon Hwang"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2014,
+    "url": "https://link.springer.com/article/10.1007/s11814-014-0041-3",
+    "tags": ["heterogeneous-catalysis", "reactor-design", "scheduling"]
+  },
+  {
+    "id": "2014-co2-mea-multiphase-rival",
+    "title": "A novel methodology for the modeling of CO₂ absorption in monoethanolamine (MEA) using discrimination of rival kinetics",
+    "authors": ["Rameshwar Hiwale", "Robin Smith", "Sungwon Hwang"],
+    "venue": "Industrial & Engineering Chemistry Research",
+    "year": 2014,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1226086X1400505X",
+    "tags": ["CO2-absorption", "MEA", "kinetics", "CCU"]
+  },
+  {
+    "id": "2013-sofc-utility-integration",
+    "title": "Process integration of solid oxide fuel cells with process utility systems",
+    "authors": ["Bin Wang", "Nan Zhang", "Sungwon Hwang", "Jin-kuk Kim"],
+    "venue": "Clean Technologies and Environmental Policy",
+    "year": 2013,
+    "url": "https://link.springer.com/article/10.1007/s10098-013-0643-1",
+    "tags": ["SOFC", "process-integration", "utility-system"]
+  },
+  {
+    "id": "2012-multiphase-co2-mea-laminar-jet",
+    "title": "Model building methodology for multiphase reaction systems – modeling of CO₂ absorption in monoethanolamine for laminar jet absorbers and packing beds",
+    "authors": ["Rameshwar Hiwale", "Robin Smith", "Sungwon Hwang"],
+    "venue": "Industrial & Engineering Chemistry Research",
+    "year": 2012,
+    "url": "https://pubs.acs.org/doi/10.1021/ie201869w",
+    "tags": ["CO2-absorption", "MEA", "multiphase", "model-building"]
+  },
+  {
+    "id": "2012-simulated-annealing-heterogeneous-catalytic",
+    "title": "Application of simulated annealing (SA) to the synthesis of heterogeneous catalytic reactor",
+    "authors": ["Sungwon Hwang", "Robin Smith"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2012,
+    "url": "https://link.springer.com/article/10.1007/s11814-011-0130-5",
+    "tags": ["simulated-annealing", "heterogeneous-catalysis", "reactor-synthesis"]
+  },
+  {
+    "id": "2011-water-network-refinery",
+    "title": "Water network synthesis in refinery",
+    "authors": ["Sungwon Hwang", "Ian Moore"],
+    "venue": "Korean Journal of Chemical Engineering",
+    "year": 2011,
+    "url": "https://link.springer.com/article/10.1007/s11814-011-0087-4",
+    "tags": ["water-network", "refinery", "process-integration"]
+  },
+  {
+    "id": "2011-multiphase-model-building",
+    "title": "Model building methodology for multiphase reaction systems",
+    "authors": ["Rameshwar Hiwale", "Robin Smith", "Sungwon Hwang"],
+    "venue": "Industrial & Engineering Chemistry Research",
+    "year": 2011,
+    "url": "https://pubs.acs.org/doi/10.1021/ie201185y",
+    "tags": ["multiphase", "reaction-systems", "model-building"]
   }
 ]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "2024-h2-liquefaction-energy-efficient",
+    "title": "Development of an energy-efficient hydrogen liquefaction process",
+    "inventors": ["Minji Park", "Hyeongjun Jung", "Sungwon Hwang"],
+    "number": "10-2024-0168629",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2024
+  },
+  {
+    "id": "2024-twin-fluid-atomizer",
+    "title": "Method for efficient flow-behavior analysis of twin-fluid atomizers",
+    "inventors": ["Girim Sin", "Sungwon Hwang"],
+    "number": "10-2024-0168628",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2024
+  },
+  {
+    "id": "2024-ai-reactor-design-system",
+    "title": "AI-algorithm-based reactor design system and method for chemical processes",
+    "inventors": ["Dela Quarme Gbadago", "Sungwon Hwang"],
+    "number": "10-2733268",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2024
+  },
+  {
+    "id": "2023-cvd-graphene-ml-prediction",
+    "title": "Method for building a correlation modeling system between CVD conditions and graphene specifications, and ML-based graphene-spec prediction",
+    "inventors": ["Gyuyoung Hwang", "Sungwon Hwang"],
+    "number": "10-2555160",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2023
+  },
+  {
+    "id": "2023-offshore-utility-system-design",
+    "title": "Offshore-plant utility system design method and the utility system designed thereby",
+    "inventors": ["Hyeonggeon Lee", "Sungwon Hwang"],
+    "number": "10-2541089",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2023
+  },
+  {
+    "id": "2023-ga-ann-construction",
+    "title": "GA-based artificial neural network construction and variable-optimization method",
+    "inventors": ["Dela Quarme Gbadago", "Jiyoung Moon", "Sungwon Hwang"],
+    "number": "10-2546367",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2023
+  },
+  {
+    "id": "2023-ann-reaction-condition-optimization",
+    "title": "Reaction-condition optimization system and neural-network-based optimization method",
+    "inventors": ["Dela Quarme Gbadago", "Jiyoung Moon", "Minjeong Kim", "Sungwon Hwang"],
+    "number": "10-2541084",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2023
+  },
+  {
+    "id": "2022-cfd-reactor-performance-optimization",
+    "title": "CFD-based reactor performance analysis apparatus and method, and reactor optimization method using the same",
+    "inventors": ["Dela Quarme Gbadago", "Sungwon Hwang"],
+    "number": "10-2472720",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2022
+  },
+  {
+    "id": "2022-pemfc-moisture-control-ai",
+    "title": "AI-algorithm-based water-content control system and method for PEM fuel cells",
+    "inventors": ["Youngtak Cho", "Sungwon Hwang"],
+    "number": "10-2837394",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2022
+  },
+  {
+    "id": "2022-cfd-ai-equipment-monitoring",
+    "title": "CFD- and AI-based monitoring system and method for chemical equipment",
+    "inventors": ["Dela Quarme Gbadago", "Sungwon Hwang"],
+    "number": "10-2022-0115021",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2022
+  },
+  {
+    "id": "2022-ai-reactor-design-method",
+    "title": "AI-algorithm-based reactor design system and method for chemical processes",
+    "inventors": ["Dela Quarme Gbadago", "Sungwon Hwang"],
+    "number": "10-2022-0115020",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2022
+  },
+  {
+    "id": "2021-graphene-ai-development",
+    "title": "AI-based graphene material development",
+    "inventors": ["Gyuyoung Hwang", "Taehun Kim", "Naechul Shin", "Sungwon Hwang"],
+    "number": "10-2021-0012801",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2021
+  },
+  {
+    "id": "2021-butadiene-reactor-coolant-tube",
+    "title": "Optimization of coolant composition and tube size for butadiene reactor temperature control",
+    "inventors": ["Dela Quarme Gbadago", "Jiyoung Moon", "Sungwon Hwang"],
+    "number": "10-2021-0061737",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2021
+  },
+  {
+    "id": "2021-nox-reduction-ai",
+    "title": "Development of NOx reduction system using artificial intelligence algorithm",
+    "inventors": ["Yeonju Shin", "Sungwon Hwang"],
+    "number": "10-2276524",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2021
+  },
+  {
+    "id": "2020-flare-system-dynamic-design",
+    "title": "Dynamic-modeling-based flare system design method",
+    "inventors": ["Yeonpyeong Jo", "Yongheon Cho", "Sungwon Hwang"],
+    "number": "10-2091570",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2020
+  },
+  {
+    "id": "2019-membrane-system-evaluation",
+    "title": "Performance and profitability evaluation method of membrane system",
+    "inventors": ["Soojin Kwon", "Sungwon Hwang"],
+    "number": "10-1959132",
+    "country": "KR",
+    "status": "Granted",
+    "year": 2019
+  },
+  {
+    "id": "2018-safety-system-methodology",
+    "title": "Development of new methodology for the enhancement of safety system",
+    "inventors": ["Yongheon Cho", "Yeonpyeong Cho", "Sungwon Hwang"],
+    "number": "10-2018-0111715",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2018
+  },
+  {
+    "id": "2018-butadiene-equipment-development",
+    "title": "Equipment development for the production of butadiene",
+    "inventors": ["Joseph Albert Mendoza", "Sungwon Hwang"],
+    "number": "10-2018-0114165",
+    "country": "KR",
+    "status": "Filed",
+    "year": 2018
+  }
+]

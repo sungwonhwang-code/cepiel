@@ -30,3 +30,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Confidential source materials (CV, CEPiEL IR, business plan, conference PDFs)
+# Do NOT commit — see CLAUDE.md §5.
+Reference/

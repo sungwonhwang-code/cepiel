@@ -1,20 +1,130 @@
 [
   {
-    "id": "2026-aiche-keynote",
-    "title": "Digital twins beyond the hype: what actually works in chemical plants",
-    "event": "AIChE Annual Meeting 2026",
-    "location": "San Francisco, USA",
-    "date": "2026-11-10",
-    "type": "Keynote",
-    "url": "https://www.aiche.org/conferences/annual"
+    "id": "2026-kiche-spring-keynote",
+    "title": "Development of key technologies for digital twin implementation in the chemical process industry",
+    "event": "KIChE Spring Conference 2026 — Process Systems Sub-committee Symposium",
+    "location": "Jeju ICC, Korea",
+    "date": "2026-04-23",
+    "type": "Keynote"
   },
   {
-    "id": "2026-kiche-spring",
-    "title": "AI 기반 화학공정 운영 — 연구실에서 현장까지",
-    "event": "한국화학공학회 춘계학술대회",
+    "id": "2025-kiiche-spring-digital-twin-soft-sensor",
+    "title": "Smart monitoring and optimization of chemical processes and utility systems using digital twins and soft sensors",
+    "event": "KIIChE Spring Conference (Korean Society of Industrial and Engineering Chemistry)",
     "location": "Jeju, Korea",
-    "date": "2026-04-25",
-    "type": "Invited Talk",
-    "url": ""
+    "date": "2025-06-03",
+    "type": "Invited Talk"
+  },
+  {
+    "id": "2020-kiiche-fall-ml-overview",
+    "title": "Research trends and case studies of machine learning in chemical engineering",
+    "event": "KIIChE Fall Conference (Korean Society of Industrial and Engineering Chemistry)",
+    "location": "Gwangju, Korea",
+    "date": "2020-10-30",
+    "type": "Invited Talk"
+  },
+  {
+    "id": "2019-kiiche-fall-ai-reactor-modeling",
+    "title": "Development of AI-based reactor modeling",
+    "event": "KIIChE Fall Conference (Korean Society of Industrial and Engineering Chemistry)",
+    "location": "Jeju, Korea",
+    "date": "2019-10-31",
+    "type": "Invited Talk"
+  },
+  {
+    "id": "2019-pres-crete-dynamic-simulation",
+    "title": "Application of dynamic simulation to safety design and effective operation of chemical processes",
+    "event": "PRES 2019 — 22nd Conference on Process Integration, Modelling and Optimisation for Energy Saving and Pollution Reduction",
+    "location": "Crete, Greece",
+    "date": "2019-10-21",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2019-iccas-jeju-dynamic-simulation",
+    "title": "Design and analysis of chemical processes through dynamic simulation",
+    "event": "ICCAS 2019 — International Conference on Control, Automation and Systems",
+    "location": "Jeju, Korea",
+    "date": "2019-10-17",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2019-apcche-sapporo-lng-tank",
+    "title": "Dynamic analysis of a non-equilibrium LNG tank",
+    "event": "APCChE 2019 — 18th Asian Pacific Confederation of Chemical Engineering Congress",
+    "location": "Sapporo, Japan",
+    "date": "2019-09-25",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2019-apcche-sapporo-mpc-offshore",
+    "title": "Development of model predictive control system using an artificial neural network for top-side process of offshore plants",
+    "event": "APCChE 2019 — 18th Asian Pacific Confederation of Chemical Engineering Congress",
+    "location": "Sapporo, Japan",
+    "date": "2019-09-24",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2019-kiiche-spring-mpc-topside",
+    "title": "Development of an ML-based MPC (Model Predictive Control) system for improving topside-process operating efficiency",
+    "event": "KIIChE Spring Conference (Korean Society of Industrial and Engineering Chemistry)",
+    "location": "Busan, Korea",
+    "date": "2019-05-03",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2018-kiiche-fall-offshore-topside",
+    "title": "Enhancing topside design efficiency for offshore plants using dynamic simulation",
+    "event": "KIIChE Fall Conference (Korean Society of Industrial and Engineering Chemistry)",
+    "location": "Jeju, Korea",
+    "date": "2018-11-01",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2018-kiche-fall-nox-lng",
+    "title": "Technology development for NOx removal in LNG (Liquefied Natural Gas) terminal",
+    "event": "KIChE Fall Conference (Korean Institute of Chemical Engineers)",
+    "location": "Daegu, Korea",
+    "date": "2018-10-25",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2018-chisa-prague-energy-perspective",
+    "title": "World energy perspective: technology development of offshore systems",
+    "event": "CHISA 2018 — 23rd International Congress of Chemical and Process Engineering",
+    "location": "Prague, Czech Republic",
+    "date": "2018-08-28",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2018-kiiche-spring-energy-process",
+    "title": "Development of process systems technologies related to the energy industry",
+    "event": "KIIChE Spring Conference (Korean Society of Industrial and Engineering Chemistry)",
+    "location": "Daegu, Korea",
+    "date": "2018-05-04",
+    "type": "Invited Talk"
+  },
+  {
+    "id": "2018-kiche-spring-process-optimization",
+    "title": "Process Optimization",
+    "event": "KIChE Spring Conference (Korean Institute of Chemical Engineers)",
+    "location": "Changwon, Korea",
+    "date": "2018-04-25",
+    "type": "Invited Talk"
+  },
+  {
+    "id": "2017-kiiche-fall-offshore-direction",
+    "title": "Future directions for the energy industry and offshore-plant technologies",
+    "event": "KIIChE Fall Conference (Korean Society of Industrial and Engineering Chemistry)",
+    "location": "Busan, Korea",
+    "date": "2017-11-09",
+    "type": "Conference Talk"
+  },
+  {
+    "id": "2017-aiche-minneapolis-tubular-reactor",
+    "title": "Modeling and optimization of a two-dimensional tubular reactor for an exothermic reaction",
+    "event": "AIChE 2017 Annual Meeting",
+    "location": "Minneapolis, USA",
+    "date": "2017-11-01",
+    "type": "Conference Talk"
   }
 ]
