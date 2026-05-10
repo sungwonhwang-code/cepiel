@@ -34,3 +34,13 @@ next-env.d.ts
 # Confidential source materials (CV, CEPiEL IR, business plan, conference PDFs)
 # Do NOT commit — see CLAUDE.md §5.
 Reference/
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+
+!.env.example
