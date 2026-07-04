@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-lng-cold-mr-hydrogen-liquefaction",
+    "title": "Utilization of LNG cold energy in a mixed-refrigerant hydrogen liquefaction process towards exergy efficiency and economic viability",
+    "authors": ["Hyungjun Jung", "Sungwon Hwang"],
+    "venue": "Energy Conversion and Management",
+    "year": 2026,
+    "tags": ["hydrogen", "liquefaction", "LNG", "mixed-refrigerant", "exergy", "techno-economic"]
+  },
+  {
     "id": "2026-hybrid-mechanism-hydrogenation",
     "title": "Data-driven mechanism derivation in hydrogenation reaction systems: A hybrid approach integrating machine learning and mathematical models",
     "authors": ["Juhyun Park", "Sunghun Song", "Dela Quarme Gbadago", "Sungwon Hwang"],
