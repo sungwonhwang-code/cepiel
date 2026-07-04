@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-lotte-ai-digital-twin",
+    "title": "AI-based process digital twin for energy efficiency optimization",
+    "partner": "Lotte Chemical",
+    "type": "Industry-academia",
+    "period": "2026 – 2027",
+    "status": "ongoing",
+    "role": "AI digital twin development, plant-wide energy efficiency optimization"
+  },
+  {
+    "id": "2026-hanwha-simacro-cracking-twin",
+    "title": "AI-based digital twin platform for quality and operational optimization of high-temperature cracking processes",
+    "partner": "Simacro · Hanwha Solutions",
+    "type": "Industry-academia",
+    "period": "2026 – 2027",
+    "status": "ongoing",
+    "role": "Hybrid AI–physics twin, cracking furnace quality & operation optimization"
+  },
+  {
+    "id": "2026-lg-rpb-acrylic-ii",
+    "title": "Rotating Packed Bed modeling for absorption of acrylic acid (Phase II)",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "period": "2026 – 2027",
+    "status": "ongoing",
+    "role": "ACM-based RPB modeling, absorption performance optimization"
+  },
+  {
+    "id": "2026-lg-hybrid-energy-network-twin",
+    "title": "AI–physics hybrid digital twin for energy network optimization in petrochemical complexes",
+    "partner": "LG Chem",
+    "type": "Industry-academia",
+    "period": "2026",
+    "status": "ongoing",
+    "role": "Hybrid AI–physics modeling, complex-wide energy network optimization"
+  },
+  {
+    "id": "2026-doosan-emethanol-pilot",
+    "title": "Dynamic simulation study on control stability of an e-methanol pilot plant",
+    "partner": "Doosan Enerbility",
+    "type": "Industry-academia",
+    "period": "2026",
+    "status": "ongoing",
+    "role": "Dynamic modeling, control-stability analysis for e-methanol pilot"
+  },
+  {
+    "id": "2026-gs-h2-pfhx-catalyst-sizing",
+    "title": "Catalyst sizing for hydrogen liquefaction PFHX — reactor modeling and optimization",
+    "partner": "GS Engineering & Construction",
+    "type": "Industry-academia",
+    "period": "2026",
+    "status": "ongoing",
+    "role": "Reactor modeling, catalyst sizing optimization for plate-fin heat exchanger"
+  },
+  {
+    "id": "2026-rist-scr-data-generation",
+    "title": "Process simulation and control data generation for SCR (selective catalytic reduction) facilities",
+    "partner": "RIST",
+    "type": "Industry-academia",
+    "period": "2026",
+    "status": "ongoing",
+    "role": "SCR process simulation, control dataset generation"
+  },
+  {
+    "id": "2025-kitech-laes-turbine",
+    "title": "Dynamic characteristics analysis of turbine operation for a Liquid Air Energy Storage (LAES) power process",
+    "partner": "KITECH",
+    "type": "Industry-academia",
+    "period": "2025 – 2026",
+    "status": "ongoing",
+    "role": "Dynamic turbine modeling, LAES power-process operability analysis"
+  },
+  {
     "id": "2024-samsung-heavy-lng-digital-twin",
     "title": "LNG liquefaction process digital twin technology development",
     "partner": "Samsung Heavy Industries",

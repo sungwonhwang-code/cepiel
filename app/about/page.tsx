@@ -162,7 +162,7 @@ export default function AboutPage() {
             ))}
           </ul>
           <p className="mt-4 text-sm text-muted">
-            45+ completed industry-academia and government R&amp;D projects
+            50+ industry-academia and government R&amp;D projects
             since 2012 — full list at{" "}
             <a
               href="https://cepi.inha.ac.kr"
