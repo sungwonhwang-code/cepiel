@@ -19,7 +19,7 @@ export default function TalksPage() {
       <PageHeader
         eyebrow="Talks"
         title="Recent and upcoming"
-        description="Conference talks, invited lectures, and the occasional panel."
+        description="Conference talks, invited lectures, and industry seminars."
       />
 
       <div className="space-y-12">

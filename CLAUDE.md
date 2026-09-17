@@ -158,7 +158,7 @@ JSON 또는 MDX frontmatter로 논문 관리. **Reference의 CEPiEL IR 9-1절 / 
 
 | # | Title | Journal | Year |
 |---|---|---|---|
-| 1 | Hybrid meta-heuristic + PINN for utility optimization | *JIEC* (in press) | 2026 |
+| 1 | Hybrid meta-heuristic + PINN for utility optimization | *JIEC* | 2026 |
 | 2 | Data-driven predictive maintenance for HX — integrated ML | *KIChE* | 2025 |
 | 3 | Optimal energy efficiency, exergy & economic analysis for H₂ refrigeration | *Energy* | 2025 |
 | 4 | ANN-based modeling for reaction optimization | *J. Cleaner Production* | 2022 |

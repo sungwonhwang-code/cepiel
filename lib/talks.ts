@@ -4,7 +4,7 @@ export type Talk = {
   id: string;
   title: string;
   event: string;
-  location: string;
+  location?: string;
   date: string;
   type: string;
   url?: string;

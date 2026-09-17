@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-hybrid-metaheuristic-pinn-utility",
+    "title": "A hybrid metaheuristic framework integrating physics-informed neural networks for real-time optimization of utility systems",
+    "authors": ["Hyeonseo Na", "Yunseo Yang", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Journal of Industrial and Engineering Chemistry",
+    "year": 2026,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1226086X26004752",
+    "tags": ["PINN", "metaheuristic", "utility-system", "real-time-optimization", "digital-twin"]
+  },
+  {
+    "id": "2026-ann-membrane-absorption-co2-capture",
+    "title": "ANN-based techno-economic optimization of a hybrid membrane–absorption CO₂ capture system under varying power mix and carbon tax conditions",
+    "authors": ["Hyunseok Koo", "Sungwon Hwang"],
+    "venue": "Energy",
+    "year": 2026,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6064798",
+    "tags": ["CCU", "carbon-capture", "membrane", "ANN", "techno-economic", "carbon-tax"]
+  },
+  {
+    "id": "2026-co2-odh-propane-multitubular-reactor",
+    "title": "Integrated reactor analysis of an externally heated multitubular reactor for carbon dioxide-assisted oxidative dehydrogenation of propane",
+    "authors": ["Jaemin Jung", "Dela Quarme Gbadago", "Sungwon Hwang"],
+    "venue": "Energy Conversion and Management",
+    "year": 2026,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0196890426009957",
+    "tags": ["CO2", "ODH", "propane", "reactor", "multitubular"]
+  },
+  {
     "id": "2026-lng-cold-mr-hydrogen-liquefaction",
     "title": "Utilization of LNG cold energy in a mixed-refrigerant hydrogen liquefaction process towards exergy efficiency and economic viability",
     "authors": ["Hyungjun Jung", "Sungwon Hwang"],

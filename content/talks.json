@@ -1,11 +1,41 @@
 [
   {
+    "id": "2026-aspentech-management-forum-industrial-ai",
+    "title": "Beyond the AI discourse: purpose-built industrial AI for market responsiveness, operational efficiency, and autonomous operations",
+    "event": "Emerson | AspenTech Korea Management Forum 2026",
+    "location": "The Plaza Seoul, Korea",
+    "date": "2026-09-04",
+    "type": "Panel",
+    "url": "/insights/aspentech-korea-management-forum-2026"
+  },
+  {
+    "id": "2026-hanwha-ocean-digital-twin",
+    "title": "Development of key technologies for digital twin implementation in the domestic chemical process industry",
+    "event": "Hanwha Ocean",
+    "date": "2026-08-25",
+    "type": "Industry Lecture"
+  },
+  {
+    "id": "2026-samsung-heavy-onboard-co2-capture",
+    "title": "MDEA/PZ absorbent-based CO₂ capture technology and onboard CO₂ capture technology",
+    "event": "Samsung Heavy Industries",
+    "date": "2026-07-22",
+    "type": "Industry Lecture"
+  },
+  {
     "id": "2026-kiche-spring-keynote",
     "title": "Development of key technologies for digital twin implementation in the chemical process industry",
     "event": "KIChE Spring Conference 2026 — Process Systems Sub-committee Symposium",
     "location": "Jeju ICC, Korea",
     "date": "2026-04-23",
     "type": "Keynote"
+  },
+  {
+    "id": "2026-sk-innovation-hx-deep-learning",
+    "title": "Process data-driven deep learning model for heat exchanger performance monitoring and maintenance cycle prediction",
+    "event": "SK Innovation",
+    "date": "2026-02-10",
+    "type": "Industry Lecture"
   },
   {
     "id": "2025-kiiche-spring-digital-twin-soft-sensor",
