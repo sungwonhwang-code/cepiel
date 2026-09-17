@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "aspentech-korea-management-forum-2026",
+    "title": "Beyond the AI discourse: notes from the AspenTech Korea Management Forum 2026",
+    "date": "2026-09-04",
+    "summary": "A panel at The Plaza Seoul on purpose-built industrial AI — for market responsiveness, operational efficiency, and autonomous operations.",
+    "tags": [
+      "AI",
+      "digital-twin",
+      "chemical-engineering",
+      "talks"
+    ]
+  },
+  {
+    "slug": "hello-world",
+    "title": "Welcome to Professor Sean's site",
+    "date": "2026-05-06",
+    "summary": "Why I'm starting to write again — and what I plan to write about.",
+    "tags": [
+      "meta",
+      "writing"
+    ]
+  },
+  {
+    "slug": "digital-twins-are-different",
+    "title": "Why digital twins for chemical processes are different",
+    "date": "2026-04-22",
+    "summary": "A digital twin of a refinery is not a digital twin of a wind turbine. The differences matter.",
+    "tags": [
+      "digital-twin",
+      "chemical-engineering"
+    ]
+  }
+]
