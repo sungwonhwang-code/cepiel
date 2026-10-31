@@ -107,7 +107,7 @@ seanhwang.dev/
   - Thesis: *Molecular Modelling and Optimisation of Naphtha Hydrotreating and Reformer Stabilizer*
 - **B.Sc.**, Chemical Engineering, Inha University, Korea (1989–1995)
 
-**산업 경력 (Industry Experience, ~17 years before academia)**
+**산업 경력 (Industry Experience, 13 years before academia)**
 - **UOP (A Honeywell Company)** — Technology Specialist, Catalysts/Absorbents/Specialties (Guildford UK & Des Plaines IL, USA, 2006–2012)
   - Hydroprocessing catalyst Technology Specialist
   - Project Manager for global refinery process design; technology exchange with Exxon-Mobil and Albemarle

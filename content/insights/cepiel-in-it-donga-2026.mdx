@@ -1,0 +1,116 @@
+---
+title: "Physics, AI, and an engineer who can check the answer — CEPiEL in IT Dong-A"
+date: 2026-10-31
+summary: "IT Dong-A profiled CEPiEL as part of the Start-up NEST 19 cohort. A few notes on what we're building and why."
+tags: ["digital-twin", "AI", "startup", "press"]
+---
+
+On 30 October, *IT Dong-A* ran a profile of CEPiEL as part of its series on
+the **Start-up NEST 19** cohort — the scale-up programme run by the Korea
+Credit Guarantee Fund (KODIT) with The Invention Lab as accelerator. The
+original article is in Korean; this is not a translation, but my own short
+summary of what we talked about, for readers outside Korea.
+
+## The problem: data is not the bottleneck any more
+
+Most chemical plants already have thousands of sensors. Collecting data is
+the easy part. The hard part is turning that data into a change in how the
+plant is actually run — and doing it in a way the people responsible for the
+plant will trust.
+
+When I moved into academia after 13 years in industry (GS E&amp;C, AspenTech,
+UOP), the
+same frustration followed me. Plant software is still mostly imported, and it
+is fragmented: process simulation, data management, predictive maintenance,
+and advanced process control each sit in their own tool, under their own
+licence, and rarely talk to each other. As I put it in the interview:
+
+> "Every time you want to add a capability, you buy another licence — and the
+> pieces still don't connect." *(translated from Korean)*
+
+CEPiEL started from a simpler observation: the data-reconciliation and
+AI-based optimisation methods we developed at [CEPI Lab](https://cepi.inha.ac.kr)
+were already delivering results in real plants. The goal is to bring them
+together on one platform, at a cost a mid-sized manufacturer can justify.
+
+## What we're building
+
+Two products, one pipeline:
+
+- **CEPiDTS™** — the digital-twin platform. Sensor data is cleaned and
+  reconciled, checked against a first-principles process model in near
+  real time, and then used to train ML models that recommend operating
+  conditions.
+- **CEPiML™** — the AI training and optimisation engine underneath. It
+  auto-selects and tunes from 16+ ML algorithms, including
+  physics-informed neural networks (PINNs) that put the governing equations
+  directly into training.
+
+A few design choices are worth calling out.
+
+**Soft sensors built from CFD.** Some of the most important variables in a
+plant — temperature profiles inside a reactor, compositions you can't sample
+— are expensive or impossible to measure. By training on CFD results, we can
+estimate them at close to real-time speed, instead of waiting days for a
+full CFD run. We keep the nonlinear first-principles model and learn
+alongside it, rather than replacing it.
+
+**Open simulators, no lock-in.** Commercial simulators are excellent and also
+expensive, which is why many mid-sized companies never start a digital-twin
+project at all. CEPiDTS can run open-source simulators such as DWSIM and
+OpenFOAM, and it connects to the commercial simulators a customer already
+owns. You keep the models you have and adopt in stages.
+
+**An AI that explains, not one that drives.** Operators can ask questions in
+plain language, and the agent answers with analysis, plots, and — most
+importantly — *why* a given operating point is optimal. Because the reasoning
+sits on a physical model, an engineer can verify it. That matters even more
+in regulated industries like pharmaceuticals and semiconductors.
+
+> "The plant should find its optimum — but an engineer must be able to verify
+> the reasoning." *(translated from Korean)*
+
+A plant that stops for even a short time loses a lot of money. So we are
+deliberately not building a system that takes over the controls. We are
+building one that helps the people in the control room make a better
+decision, and leaves that decision with them.
+
+## Starting with utilities
+
+Our first target is the part of the plant every industry shares: the
+**utility system** — steam, cooling water, chillers. Utilities are a large
+share of a site's energy use, have many interacting variables, and are still
+largely run on operator experience. That makes them the right place to prove
+value before moving into core production units.
+
+Since CEPiML launched in April, the work has picked up: a digital-twin project
+for an FPSO topside process as part of a consortium with a global process
+software company, an anomaly-detection project on an EDC cracker for a Korean
+chemical company, discussions on a utility digital twin with a petrochemical
+producer, and an HVAC energy-optimisation project in Singapore. On an LNG
+liquefaction pilot with a Korean shipbuilder, a CEPiDTS proof of concept cut
+energy use by roughly **5–6%**.
+
+## What's next
+
+Next is **CEPiML 2.0**: a chemical-process ontology — a machine-readable map
+of how equipment, variables, and operating documents relate — combined with
+an LLM interface, so an engineer can talk to the whole plant in natural
+language. Alongside that, with our co-CEO Paul Cho and the KhaiEL
+team, we are working on Singapore as a first hub abroad and on the North
+American market.
+
+> "I want to show that a process-AI company born in Korea can work alongside
+> global commercial software and still give customers a more reasonable
+> choice." *(translated from Korean)*
+
+Thanks to KODIT and The Invention Lab for the Start-up NEST programme, and to
+the IT Dong-A team for the conversation.
+
+---
+
+**Source:** Kim Ye-ji, "CEPiEL: combining physical laws and AI to help plants
+find their optimal conditions — digital-twin innovation on the factory floor
+[Start-up NEST 19]", *IT Dong-A*, 30 October 2026 (in Korean).
+[Read the original article →](https://it.donga.com/109814/)
+Also published on [donga.com](https://www.donga.com/news/It/article/all/20261030/134940705/1).

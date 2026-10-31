@@ -4,6 +4,8 @@ import { Badge } from "@/components/badge";
 import { CepielLink } from "@/components/cepiel-link";
 import { site } from "@/lib/config";
 import { getOngoingProjects, getUniquePartners } from "@/lib/projects";
+import { getAllPress } from "@/lib/press";
+import { PressItem } from "@/components/press-item";
 
 export const metadata: Metadata = {
   title: "About",
@@ -22,6 +24,7 @@ const facts = [
 export default function AboutPage() {
   const ongoing = getOngoingProjects();
   const partners = getUniquePartners();
+  const press = getAllPress();
 
   return (
     <div className="space-y-16">
@@ -37,7 +40,7 @@ export default function AboutPage() {
             Sungwon (Sean) Hwang is a professor of chemical engineering at Inha
             University, director of the CEPI Lab (Clean Energy Process
             Integration Lab.), and co-founder & CEO of{" "}
-            <CepielLink className="link-accent" />. He spent ~17 years in
+            <CepielLink className="link-accent" />. He spent 13 years in
             industry — at GS E&amp;C, AspenTech UK, and UOP (a Honeywell
             company) in the UK and US — before joining academia in 2012, and
             now works at the intersection of digital twins, AI, and process
@@ -102,7 +105,7 @@ export default function AboutPage() {
               Korea, 1995.
             </li>
             <li>
-              ~17 years in industry before academia:{" "}
+              13 years in industry before academia:{" "}
               <strong>GS E&amp;C</strong> (process engineer, plant division;
               NODCO Qatar / Thai Petrochemical / GS Caltex projects, 1995–99)
               → <strong>AspenTech UK</strong> (staff consultant, advanced
@@ -194,6 +197,16 @@ export default function AboutPage() {
             (2026–2027).
           </p>
         </Section>
+
+        {press.length > 0 && (
+          <Section index="08" title="In the news">
+            <ul className="space-y-4">
+              {press.map((p) => (
+                <PressItem key={p.id} item={p} />
+              ))}
+            </ul>
+          </Section>
+        )}
       </div>
     </div>
   );
